@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelAdvance.js">
+    <Files>
+      <File FileName="Assets\Scripts\AnimateTexture.js" Line="16" Column="23" />
+      <File FileName="Assets\Scripts\Enemy.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Teleport.js" Line="23" Column="16" />
+      <File FileName="Assets\Scripts\PlatformMover.js" Line="13" Column="31" />
+      <File FileName="Assets\Scripts\PlayerAnimate.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextureFlip.js" Line="8" Column="21" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Checkpoint.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stomp.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelAdvance.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
